@@ -1,11 +1,11 @@
 {
-  "version": "1.0.25",
+  "version": "1.0.29",
   "notes": "Nueva versión de EduPlan.",
-  "pub_date": "2026-10-19T23:31:44Z",
+  "pub_date": "2026-10-19T23:40:33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQW9kUWhEU0xqVTFiTVEzYytIOHJQbjV5aTZyZmZWcTh5a3UvZlB2RDltWjZNaUpQK3dlMGZjd01QdFc3OGZmRTJ6VUgvS3piTjRHSXFlYXJXMXpwT0RZTUR0dlBGSVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDUyNjY0CWZpbGU6RWR1UGxhbl8xLjAuMjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4yNQowc21wTmIwUjEvcHk1WGNGUjBwQzhMc2NGdC85T205bjFmR2dzYkpMUlRMd3FqeEdTZU8rSlNJRC9IVm1RMkNkYWJqNE91L0llUmo0RFBoNmhOSTBDZz09Cg==",
-      "url": "https://raw.githubusercontent.com/tecnomiguel1-creator/EduPlan-updates/main/windows/EduPlan-1.0.25-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQW9kUWhEU0xqVTBBb0VPNHNwN2p4bFI1N1doM21DN0VPWXQ4WGFaNWlNVFc5M1p6WlVaeG1MV2gzYTRDN3BrbEpIYVdFTjNOYTR5SWdKbFJwcDZ6ZE0vd0hpczRCdXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDUzMjAwCWZpbGU6RWR1UGxhbl8xLjAuMjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4yOQppRlllbitLQ0tEV3czanNSemFpUXdHTkZ3UVlEZU1ZU3RqQjc2MWJ4ckkrQnhIeGNSSk1XVjcrSk95dE9xMHdyditKd1V1d3l0c01idmdXNDYvS0pBdz09Cg==",
+      "url": "https://raw.githubusercontent.com/tecnomiguel1-creator/EduPlan-updates/main/windows/EduPlan-1.0.29-setup.exe"
     }
   }
 }
