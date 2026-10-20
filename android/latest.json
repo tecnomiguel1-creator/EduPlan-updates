@@ -1,10 +1,10 @@
 {
-  "version": "1.0.44",
+  "version": "1.0.45",
   "notes": "Nueva versión de EduPlan para Android.",
-  "pub_date": "2026-10-20T01:05:51Z",
+  "pub_date": "2026-10-20T16:05:11Z",
   "platforms": {
     "android-apk": {
-      "url": "https://raw.githubusercontent.com/tecnomiguel1-creator/EduPlan-updates/main/android/EduPlan-1.0.44.apk"
+      "url": "https://raw.githubusercontent.com/tecnomiguel1-creator/EduPlan-updates/main/android/EduPlan-1.0.45.apk"
     }
   }
 }
